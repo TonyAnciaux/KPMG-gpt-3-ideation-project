@@ -29,7 +29,7 @@ Different methods were explored among which:
 
 
 
-*Accuracy* and *Loss* for *OCR_CNN_model* with 75k images dataset: 
+*Accuracy* and *Loss* for *OCR_CNN_model*: 
 
 ![Accuracy](Accuracy_75k.png)
 ![Loss](Loss_75k.png)
