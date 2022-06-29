@@ -25,7 +25,11 @@ Different methods were explored among which:
 * **OpenCV** in combination with **Tesseract**
 * **EasyOCR**
 * **Google Vision** 
-* developping a model from scratch using CNN and a 1.2 million handwritten character dataset 
+* developping a model from scratch using CNN and a 1.2 million handwritten character dataset (*OCR_CNN_model.py*)
 
 
-Graphs of *Accuracy* and *Loss* for the later are provided as well. 
+
+*Accuracy* and *Loss* for *OCR_CNN_model* with 75k images dataset: 
+
+![Accuracy](Accuracy_75k.png)
+![Loss](Loss_75k.png)
